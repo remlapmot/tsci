@@ -1,0 +1,3 @@
+v 3
+d Stata command that was the pre-cursor to the mrratio command in the mrrobust package
+p tsci
