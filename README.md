@@ -1,6 +1,4 @@
----
-title: tsci Stata program
----
+# tsci Stata program
 
 This is a command I wrote before [`mrratio`](https://github.com/remlapmot/mrrobust/blob/master/mrratio.ado) in my [mrrobust](https://github.com/remlapmot/mrrobust) package.
 
