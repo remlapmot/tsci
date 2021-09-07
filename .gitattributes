@@ -1,2 +1,6 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Linguist setting
+*.toc linguist-language=Stata
+*.pkg linguist-language=Stata
