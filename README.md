@@ -4,6 +4,6 @@ This is a command I wrote before [`mrratio`](https://github.com/remlapmot/mrrobu
 
 ## Installation
 To install, issue in Stata (in versions 13 and above):
-```
-net install tsci, from(https://raw.github.com/remlapmot/tsci/master)
+``` stata
+net install tsci, from("https://raw.github.com/remlapmot/tsci/master")
 ```
